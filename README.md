@@ -17,7 +17,7 @@ SSH key 可以让你在你的电脑和 Git 服务器之间建立安全的加密�
 -rw-------  1 {username}  staff   1.6K  8 30 15:32 id_rsa_gitlab
 -rw-r--r--  1 {username}  staff   397B  8 30 15:32 id_rsa_gitlab.pub
 -rw-r--r--@ 1 {username}  staff   1.5K  9  2 10:06 known_hosts
-```javascript
+```
 
 ## 2.生成 SSH key
 
