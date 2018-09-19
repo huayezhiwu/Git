@@ -56,7 +56,7 @@ The key s randomart image is:
 +----[SHA256]-----+
 
 ### 3. 将生成的公钥拷贝到剪贴板上，到git管理页面贴入即可
-pbcopy < ~/.ssh/id_rsa_oschina.pub
+pbcopy < ~/.ssh/id_rsa_oschina.pub <br />
 id_rsa_oschina.pub的内容就是key的内容，而title的内容可以随便写~~
 
 至此是否已经配置完成，答案否
